@@ -34,4 +34,4 @@ El proyecto fue basado en las consignas de CoderHouse, que fue hacer un e-commer
 
 ## PROYECTO EN LINEA
 
-## [https://egotech.netlify.app/](https://egotech.netlify.app/)
+## [https://egotech-phi.vercel.app/](https://egotech-phi.vercel.app/)
